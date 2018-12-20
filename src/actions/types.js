@@ -1,0 +1,5 @@
+export const GET_LOCATION = 'GET_LOCATION';
+export const GET_LOCATION_FAILED = 'GET_LOCATION_FAILED';
+export const FETCH_INFO = 'FETCH_INFO';
+export const FETCH_FAILED = 'FETCH_FAILED';
+export const FETCH_SUCCESSED = 'FETCH_SUCCESSED';
